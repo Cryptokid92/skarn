@@ -2,6 +2,8 @@
 
 Living outpost. New repo. All new code. Not No Part. Not Stonewatch.
 
+v1 lock: [docs/v1-spec.md](docs/v1-spec.md).
+
 You are principal. Type intent. Overseer (rules, no key) posts standing jobs. Named people take them. Needs drain. Clock does not rewind. Watch, pause, assign, veto. Do not cut machines until HOLD.
 
 ## v1 in
