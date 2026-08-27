@@ -27,3 +27,14 @@ Cursor writes every file. The Cut does not type `src/`, tests, CI, or HTML.
 Repo was empty of product code on purpose. Next: Cursor scaffold (package, Vite, Vitest, CI). Still no game until the spec lock.
 
 Later modules stay on this kernel. Do not rewrite it: jobs as physics, one industry chain, counted stock, one labor creature, one site vehicle, one launch, one price.
+
+## Run
+
+```sh
+npm install
+npm run dev
+```
+
+```sh
+npm test
+```
